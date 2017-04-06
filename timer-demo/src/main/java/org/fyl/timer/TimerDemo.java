@@ -1,14 +1,6 @@
-/* 
- * @(#)TimerDemo.java    2017/4/6
- * 
- * Copyright © 2006-2016 YONGHUI SUPERSTORES, All Rights Reserved.
- * YONGHUI SUPERSTORES PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- *
- */
 package org.fyl.timer;
 
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Timer;
