@@ -9,7 +9,7 @@ import org.apache.commons.cli.*;
  *
  */
 
-public class DefOptions {
+public class CLIDemo {
 
     public static void main(String[] args) throws ParseException {
 
